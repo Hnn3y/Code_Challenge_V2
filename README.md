@@ -9,3 +9,5 @@
 # Day 3: Forms in HTML
 
 # Day 4: Table Tags; Build a table shwoing a class schedule 
+
+# Day 5: Semantic HTML TAGS; Build a semantic html 
