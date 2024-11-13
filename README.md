@@ -11,3 +11,5 @@
 # Day 4: Table Tags; Build a table shwoing a class schedule 
 
 # Day 5: Semantic HTML TAGS; Build a semantic html 
+
+# Day 6: Structure a webpage and add styling

@@ -1,0 +1,56 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blanchedalmond;
+} 
+
+.header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+    border-radius: 15px;
+} 
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+} 
+
+nav a{
+    text-decoration: none;
+    color: black;
+} 
+
+
+.home{
+   text-align: center;
+   color: rgb(11, 118, 160);
+} 
+
+.skill{
+    text-align: center;
+   color: rgb(16, 146, 81);
+} 
+
+.about{
+    text-align: center;
+   color: rgb(11, 160, 28);
+} 
+
+.contact{
+    text-align: center;
+   color: rgb(11, 160, 28);
+} 
+
+.conatact p, a{
+    text-decoration: none;
+    color: black;
+}
+
+footer{
+    text-align: center;
+    color: rgb(11, 160, 28);
+}
