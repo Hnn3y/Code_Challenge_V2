@@ -12,4 +12,6 @@
 
 # Day 5: Semantic HTML TAGS; Build a semantic html 
 
-# Day 6: Structure a webpage and add styling
+# Day 6: Structure a webpage and add styling  
+
+# Day 7: Style different section of a webapge using CSS selectors
