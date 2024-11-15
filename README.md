@@ -15,3 +15,5 @@
 # Day 6: Structure a webpage and add styling  
 
 # Day 7: Style different section of a webapge using CSS selectors
+
+# Day 8: CSS box Mode; Use box models to style a website
