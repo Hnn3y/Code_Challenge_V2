@@ -17,3 +17,5 @@
 # Day 7: Style different section of a webapge using CSS selectors
 
 # Day 8: CSS box Mode; Use box models to style a website
+
+# Day 9: CSS Responsive styling; Design a responsive webpage
