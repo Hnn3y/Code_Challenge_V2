@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+} 
+.header{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    row-gap: 10px;
+    column-gap: 15px;
+    align-items: center;
+    padding: 4px 2px;
+}
+
+.header, h2{
+    align-items: center;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    margin: 15px 0px;
+    padding: 0px 5px;
+} 
+
+.item-1{
+    background-color: rgb(207, 183, 29);
+    border: 1px solid;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+} 
+.item-2{
+    background-color: black;
+    color: azure;
+    border: 1px solid;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+} 
+
+.item-3{
+    background-color: blue;
+    border: 1px solid;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+.item-4{
+    background-color: rgb(0, 255, 140);
+    border: 1px solid;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+} 
+
+.item-5{
+    background-color: rgb(255, 0, 144);
+    border: 1px solid;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+} 
+ 
+.chess-container{
+    margin: 20px 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+    width: 6px;
+  }
+  
+  .white{
+    background-color:  #f0d9b5;
+    height: 50px;
+    width: 50px;
+  } 
+
+  .black{
+    background-color: #b58863;
+    height: 50px;
+    width: 50px;
+  }
+  
+
+  /* Media queries in CSS allow you to apply specific styles depending on the characteristics of the user's device or screen, 
+  such as width, height, orientation, and resolution. They're critical for making your 
+  website responsive and ensuring content looks good on all devices.*/
+  @media only screen and (min-width: 770px) {
+    *{.white, .black {
+        height: 50px;
+        width: 50px;}
+  } 
+}

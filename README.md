@@ -20,6 +20,6 @@
 
 # Day 9: CSS Responsive styling; Design a responsive webpage
 
-# Day 10: Amplify your reach; Share your progress on twitter and grow your audience tweet about your journey from Day 1 
-   Check it here on <a href="https://x.com/Codeflexng">Codeflex</a>
-   Check the post here<a href="https://x.com/Henneiiy/status/1858197710760755475">HENNEIY</a>
+# Day 10: Amplify your reach; Share your progress on twitter and grow your audience tweet about your journey from Day 1 <br> Check it here on <a href="https://x.com/Codeflexng">Codeflex</a> <br> Check the post here<a href="https://x.com/Henneiiy/status/1858197710760755475">HENNEIY</a>
+
+# Day 11: CSS Grid:Learn the basics of css grid, focusing on key properties.
