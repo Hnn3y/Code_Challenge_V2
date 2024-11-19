@@ -23,3 +23,5 @@
 # Day 10: Amplify your reach; Share your progress on twitter and grow your audience tweet about your journey from Day 1 <br> Check it here on <a href="https://x.com/Codeflexng">Codeflex</a> <br> Check the post here<a href="https://x.com/Henneiiy/status/1858197710760755475">HENNEIY</a>
 
 # Day 11: CSS Grid:Learn the basics of css grid, focusing on key properties.
+
+# Day 12 & 13: Advsnced CSS Grid Concepts; Use these concepts to build a more complex grid layout, like a gallery page showcasing images or content.
