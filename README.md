@@ -25,3 +25,5 @@
 # Day 11: CSS Grid:Learn the basics of css grid, focusing on key properties.
 
 # Day 12 & 13: Advsnced CSS Grid Concepts; Use these concepts to build a more complex grid layout, like a gallery page showcasing images or content.
+
+# Day 12 & 13: Advanced CSS Grid Concepts; Use these concepts to build a more complex grid layout, like a gallery page showcasing images or content. {REDESIGN}
