@@ -1,0 +1,104 @@
+*{
+    padding: 0;
+    margin: 0;
+} 
+
+body{
+    font-size: 15px;
+    background-color: #89A8B2;
+
+} 
+.head{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: #B3C8CF;
+    padding: 15px;
+    margin: 15px 1px;
+    border-radius: 25px;
+} 
+
+.menu{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+} 
+
+.menu li{
+    margin:0 5px;
+    background-color: #E5E1DA;
+    border-radius: 10px;
+} 
+
+.menu a{
+    text-decoration: none;
+    color: black;
+    padding: 0px 5px;
+
+} 
+
+.container{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 15px;
+} 
+
+.grid-container{
+    align-items: center;
+    justify-items: center;
+    margin: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+    gap: 20px;
+    padding: 15px;
+} 
+
+.grid-container img {
+    width: 100%;
+    height: 200px;
+    border-radius: 15px;
+} 
+
+img{
+    border-radius: 25px;
+    height: auto;
+    max-width: 100%;
+} 
+
+button{
+    background-color: #89A8B2;
+    
+}
+
+/* Styles apply when the screen width is greater than or equal to the specified value (min-width)*/
+
+/* Styles apply when the screen width is less than or equal to the specified value */
+@media (min-width: 400px) {
+    body {
+      font-size: 25px; 
+    } 
+    .grid-container{
+        grid-template-columns: 1fr;
+    }
+    
+  } 
+  
+  @media (max-width: 600px){
+    .menu{
+        display: none;
+    }
+  }
+
+  @media(min-width: 765px){
+    .grid-container{
+        grid-template-columns: 1fr 1fr;
+    } 
+
+    .menu{
+        display: flex;
+    }
+  }
