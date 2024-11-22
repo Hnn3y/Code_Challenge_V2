@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 1;
+} 
+
+body{
+    background-color: #E5E3D4;
+    width: 100%;
+    align-items: center;
+} 
+
+.container-button{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: #89A8B2;
+    width: 500px;
+    margin: 110px 50px;
+    border-radius: 25px;
+    padding: 30px;
+} 
+
+.container-button button{
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: 5px;
+    background-color: #B3C8CF;
+    border: 1px solid #E5E1DA;
+    font-weight: 400px;
+    cursor: pointer;
+}

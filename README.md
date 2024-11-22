@@ -29,4 +29,6 @@
 # Day 12 & 13: Advanced CSS Grid Concepts; Use these concepts to build a more complex grid layout, like a gallery page showcasing images or content. {REDESIGN}
 
 # Day 14: Responsive Design Concepts; Learn the fundamentals of respnsive web design using media queries to adapt layouts for different screen sizes
+
+# Day 15: Intro to Javascript;
  
