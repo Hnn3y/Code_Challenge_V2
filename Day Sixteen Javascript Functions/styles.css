@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 1;
+} 
+
+body{
+    background-color: #E5E3D4;
+    width: 100%;
+    align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} 
+
+header{
+    align-items: center;
+    justify-content: center;
+} 
+
+.form-container{
+    background-color: #E23E57;
+    align-items: center;
+    justify-content: center;
+    max-width: 600px;
+    padding: 35px 25px;
+    margin: 30px;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 30px;
+}  
+
+.logo{
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 15px;
+} 
+
+.form{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+} 
+
+.form-group{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+} 
+
+input{
+    width: 100%;
+    padding: 10px 15px;
+    border-radius: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 3px solid;
+    background-color: #88304E;
+    cursor:default;
+} 
+
+#result{
+    text-align: center;
+    width: 100%;
+    height: 40px;
+    padding: 10px 15px;
+    border-radius: 15px;
+    background-color: #88304E;
+}
+
+button{
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: 3px;
+    background-color: #88304E;
+    border: 2px solid black;
+    font-weight: 400px;
+    cursor: pointer;
+}

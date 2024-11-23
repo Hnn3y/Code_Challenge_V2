@@ -31,4 +31,5 @@
 # Day 14: Responsive Design Concepts; Learn the fundamentals of respnsive web design using media queries to adapt layouts for different screen sizes
 
 # Day 15: Intro to Javascript;
- 
+
+# Day 16: Javascript Functions; 
