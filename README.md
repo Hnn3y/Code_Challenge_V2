@@ -33,3 +33,5 @@
 # Day 15: Intro to Javascript;
 
 # Day 16: Javascript Functions; 
+
+# Day 17: Javascxript DOM; Use JS to chnage the text content of an HTML element 
