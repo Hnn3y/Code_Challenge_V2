@@ -35,3 +35,5 @@
 # Day 16: Javascript Functions; 
 
 # Day 17: Javascxript DOM; Use JS to chnage the text content of an HTML element 
+
+# Day 18: Learn how to handle JS Events: Understand how to use event listeners in Javascript to trigger functions.
