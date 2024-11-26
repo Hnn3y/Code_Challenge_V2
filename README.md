@@ -37,3 +37,5 @@
 # Day 17: Javascxript DOM; Use JS to chnage the text content of an HTML element 
 
 # Day 18: Learn how to handle JS Events: Understand how to use event listeners in Javascript to trigger functions.
+
+# Day 19: Learn how to work with arrays and loops to manage and display data dynamically.; Write a script that displays a list of items stored in an array using a loop and updates the HTML dynamically with DOM manipulation
