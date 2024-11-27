@@ -39,3 +39,6 @@
 # Day 18: Learn how to handle JS Events: Understand how to use event listeners in Javascript to trigger functions.
 
 # Day 19: Learn how to work with arrays and loops to manage and display data dynamically.; Write a script that displays a list of items stored in an array using a loop and updates the HTML dynamically with DOM manipulation
+
+# Day 20: Learn how to create an work with JS objects to store related data and properties.; Create a js object that represents a student (with properties like name, age, and grade).
+

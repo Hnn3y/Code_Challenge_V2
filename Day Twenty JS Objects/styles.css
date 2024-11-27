@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}  
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+} 
+
+.student-container{
+    background-color: #FCF596;
+    padding: 20px;
+    border: 2px solid #ddd;
+    border-radius: 15px;
+    width: 300px;
+    margin: 15px;
+    text-align: center;
+}
+
+.student-container h3{
+    color: #FF4545;
+    margin-bottom: 15px;
+} 
+
+.student-container p{
+    font-size: 15px;
+    color: #333;
+    margin: 5px 0;
+
+} 
+
+.main-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    padding: 20px;
+}
