@@ -42,3 +42,4 @@
 
 # Day 20: Learn how to create an work with JS objects to store related data and properties.; Create a js object that represents a student (with properties like name, age, and grade).
 
+# Day 21: Apply JavaScript concepts to build a simple interactive calculator. Simple Calculator Project, Combine your knowledge of JavaScript functions, event listeners, and DOM manipulation. Create a calculator that performs basic operations: addition, subtraction, multiplication, and division.
