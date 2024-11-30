@@ -45,3 +45,5 @@
 # Day 21: Apply JavaScript concepts to build a simple interactive calculator. Simple Calculator Project, Combine your knowledge of JavaScript functions, event listeners, and DOM manipulation. Create a calculator that performs basic operations: addition, subtraction, multiplication, and division.
 
 # Day 22: Create a contact form with fields like name, email, and message.Use JavaScript to validate the form, ensuring all required fields are filled, inputs meet length requirements, and the email field contains a valid email address. 
+
+# Day 23: JavaScript and CSS Integration. Learn how to dynamically modify CSS properties using JavaScript.Implement a button that toggles between dark and light modes by changing CSS properties dynamically. Use addEventListener to handle button clicks for toggling.Define CSS classes for both dark and light modes and toggle between them.
