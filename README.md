@@ -47,3 +47,5 @@
 # Day 22: Create a contact form with fields like name, email, and message.Use JavaScript to validate the form, ensuring all required fields are filled, inputs meet length requirements, and the email field contains a valid email address. 
 
 # Day 23: JavaScript and CSS Integration. Learn how to dynamically modify CSS properties using JavaScript.Implement a button that toggles between dark and light modes by changing CSS properties dynamically. Use addEventListener to handle button clicks for toggling.Define CSS classes for both dark and light modes and toggle between them.
+
+# Day 24: Learn about APIs and how to fetch and display data using JavaScript. Fetch data from a public API (e.g., a list of countries). Display the fetched data on the webpage using DOM manipulation.

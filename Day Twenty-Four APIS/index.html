@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Fetch Countries API</h1>
+    <input type="text" id="search" placeholder="Search for a country..." oninput="filterCountries()">
+    <p>Click the button below to load a list of countries:</p>
+    <button id="load-countries">Load Countries</button>
+    <div id="error-message" class="error"></div>
+    <div class="countries" id="countries-container"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
