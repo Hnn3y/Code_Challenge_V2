@@ -51,3 +51,14 @@
 ## Day 24: Learn about APIs and how to fetch and display data using JavaScript. Fetch data from a public API (e.g., a list of countries). Display the fetched data on the webpage using DOM manipulation.
 
 ## Day 25: Create an interactive to-do list application using JavaScript and DOM manipulation.Build a simple to-do list app where users can:Add new tasks.Delete tasks.
+
+## Day26: Introduction to Local Storage. Update your to-do list app from Day 25 to store tasks in localStorage. Ensure that tasks persist even after refreshing the page. 
+
+<p align="left">
+  <a href='https://github.com/Hnn3y/CodeFlex_Day-26'>
+    <img width="48%" src="./Images/Screenshot (122).png" alt="Day 26" />
+  </a>
+  <a href='https://x.com/Henneiiy'>
+    <img width="48%" src="./Images/Screenshot (123).png" alt="To-Do List" />
+  </a>
+</p>
